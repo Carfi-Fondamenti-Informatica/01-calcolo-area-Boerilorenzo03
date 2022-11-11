@@ -19,8 +19,6 @@ cout << "arearettangolo:" << endl;
 cout << a * b << endl;
 cout << "areatrapezio:" << endl;
 cout << ((a + a ) * c) / 2 << endl;
-
-
-
+  
 }
 
